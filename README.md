@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)  
 
 <h1 align="center">Hi 👋, I'm Jakub (a.k.a.) Majster</h1>
