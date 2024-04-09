@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterkiller1239&show_icons=true&locale=en" alt="masterkiller1239" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterkiller1239&" alt="masterkiller1239" /></p>
+
+![Alt Text](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)  
