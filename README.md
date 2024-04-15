@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Secret bullet heaven project in Unity**
 
-- 🌱 I’m currently learning **shaders, Unity ECS, advanced Unreal**
+- 🌱 I’m currently learning **shaders, Unity ECS, advanced Unreal and Js**
 
 - 📫 How to reach me **majsterjames@gmail.com**
 
