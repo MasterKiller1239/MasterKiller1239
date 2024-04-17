@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [www.linkedin.com/in/jakub-grobelkiewicz-7bb3971b3](www.linkedin.com/in/jakub-grobelkiewicz-7bb3971b3)
 
 - ⚡ Fun fact **I like to play a lot of diffrent games -> https://steamcommunity.com/id/MasterKiller1239/**
- 
+- 📜 **My portfolio page  https://masterkiller1239.github.io**
 
 <div align="center">
   
