@@ -1,14 +1,12 @@
 
 <div align="center">
+ 
  ![Alt Text](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)  
 
 </div>
 <h1 align="center">Hi 👋, I'm Jakub (a.k.a.) Majster</h1>
 <h3 align="center">A passionate game developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterkiller1239&label=Profile%20views&color=0e75b6&style=flat" alt="masterkiller1239" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterkiller1239" alt="masterkiller1239" /></a> </p>
 
 - 🔭 I’m currently working on **Secret bullet heaven project in Unity**
 
@@ -49,6 +47,16 @@
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=masterkiller1239&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+<div align="center">
+
+## 🏆 Trophies
+
+<p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterkiller1239" alt="masterkiller1239" /></a> </p>
+
+</div>
 
 <div align="center">
-![Alt Text](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif)  </div>
+ 
+![Alt Text](https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif) 
+
+</div>
