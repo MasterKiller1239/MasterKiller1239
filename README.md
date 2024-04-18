@@ -22,7 +22,7 @@
 <div align="center">
 
 ## ⚡️ Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal,git,visualstudio,flutter,androidstudio,html,css,github,vscode,androidstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal,git,visualstudio,flutter,html,css,github,vscode,androidstudio,figma)](https://skillicons.dev)
 
 </div>
 
