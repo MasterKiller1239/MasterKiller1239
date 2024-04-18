@@ -20,15 +20,6 @@
 - 📜 **My portfolio page  https://masterkiller1239.github.io**
 
 <div align="center">
-  
-## 📞 Connect with me
-
-<a href="https://linkedin.com/in/jakub-grobelkiewicz-7bb3971b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
-  <a href="https://steamcommunity.com/id/MasterKiller1239/" target="blank"><img align="center" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
-
-</div>
-
-<div align="center">
 
 ## ⚡️ Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal,git,visualstudio,flutter,androidstudio,html,css,github,vscode,androidstudio,figma)](https://skillicons.dev)
@@ -36,6 +27,15 @@
 </div>
 
 <div align="center">
+
+<div align="center">
+  
+## 📞 Connect with me
+
+<a href="https://linkedin.com/in/jakub-grobelkiewicz-7bb3971b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
+  <a href="https://steamcommunity.com/id/MasterKiller1239/" target="blank"><img align="center" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
+
+</div>
 
 ## 🔖 Stats
 
