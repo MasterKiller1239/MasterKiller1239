@@ -32,7 +32,7 @@
   
 ## 📞 Connect with me
 
-<a href="https://linkedin.com/in/jakub-grobelkiewicz-7bb3971b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jakub-grobelkiewicz-7bb3971b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
   <a href="https://steamcommunity.com/id/MasterKiller1239/" target="blank"><img align="center" src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" alt="jakub-grobelkiewicz-7bb3971b3" height="30" width="40" /></a>
 
 </div>
