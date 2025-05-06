@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **majsterjames@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jakub-grobelkiewicz-7bb3971b3/](www.linkedin.com/in/jakub-grobelkiewicz-7bb3971b3)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jakub-grobelkiewicz-7bb3971b3/](https://www.linkedin.com/in/jakub-grobelkiewicz-7bb3971b3/)
 
 - ⚡ Fun fact **I like to play a lot of diffrent games -> https://steamcommunity.com/id/MasterKiller1239/**
 - 📜 **My portfolio page  https://masterkiller1239.github.io**
