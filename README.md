@@ -5,12 +5,12 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Jakub (a.k.a.) Majster</h1>
-<h3 align="center">A passionate game developer from Poland</h3>
+<h3 align="center">A passionate C# developer from Poland</h3>
 
 
 - 🔭 I’m currently working on **Secret bullet heaven project in Unity**
 
-- 🌱 I’m currently learning **shaders, Unity ECS, advanced Unreal and Js**
+- 🌱 I’m currently learning **advanced Unreal and C#**
 
 - 📫 How to reach me **majsterjames@gmail.com**
 
